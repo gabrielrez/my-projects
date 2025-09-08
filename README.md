@@ -1,5 +1,20 @@
-# Vue 3 + Vite
+## Projetos
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este portifólio é dinâmico, os projetos são atualizados automaticamente com base no arquivo README.md
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+```json
+[
+  {
+    "name": "DailyQuest API",
+    "description": "DailyQuest um sistema de gerenciamento de metas colaborativas. Com a API, você pode criar e gerenciar contas de usuário, organizar suas atividades em coleções e acompanhar o progresso das suas metas diárias ou de longo prazo.",
+    "repository": "https://github.com/gabrielrez/dailyquest-api",
+    "demo": "https://github.com/gabrielrez/dailyquest-api"
+  },
+  {
+    "name": "PushPHP",
+    "description": "Um microframework limpo e minimalista para criação de APIs web com PHP. Projetado para ser leve, fácil de estender e focado na simplicidade..",
+    "repository": "https://github.com/gabrielrez/PushPHP",
+    "demo": "https://github.com/gabrielrez/PushPHP"
+  }
+]
+```
