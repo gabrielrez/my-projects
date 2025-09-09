@@ -6,7 +6,7 @@ Este portifólio é dinâmico, os projetos são atualizados automaticamente com 
 [
   {
     "name": "DailyQuest API",
-    "description": "DailyQuest um sistema de gerenciamento de metas colaborativas. Com a API, você pode criar e gerenciar contas de usuário, organizar suas atividades em coleções e acompanhar o progresso das suas metas diárias ou de longo prazo.",
+    "description": "DailyQuest é um sistema de gerenciamento de metas colaborativas. Com a API, você pode criar e gerenciar contas de usuário, organizar suas atividades em coleções e acompanhar o progresso das suas metas diárias ou de longo prazo.",
     "repository": "https://github.com/gabrielrez/dailyquest-api",
     "demo": "https://github.com/gabrielrez/dailyquest-api"
   },
