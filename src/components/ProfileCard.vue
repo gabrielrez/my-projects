@@ -59,7 +59,7 @@
 defineProps({
   image: {
     type: String,
-    default: "/img/profile.jpeg",
+    default: "/profile.jpeg",
   },
   name: {
     type: String,

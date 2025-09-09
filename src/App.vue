@@ -7,7 +7,7 @@ const projects = ref([]);
 const loading = ref(true);
 
 const API_URL =
-  "https://raw.githubusercontent.com/gabrielrez/portifolio/main/README.md";
+  "https://raw.githubusercontent.com/gabrielrez/my-projects/main/README.md";
 
 onMounted(async () => {
   try {
