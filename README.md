@@ -12,7 +12,7 @@ Este portifólio é dinâmico, os projetos são atualizados automaticamente com 
   },
   {
     "name": "Fluenty. API",
-    "description": "Plataforma para aprendizagem de idiomas com textos e áudios.",
+    "description": "API para uma plataforma de aprendizagem de idiomas com textos e áudios.",
     "repository": "https://github.com/gabrielrez/fluenty_api",
     "demo": "https://github.com/gabrielrez/fluenty_api"
   }
